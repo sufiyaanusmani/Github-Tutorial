@@ -1,0 +1,24 @@
+2ac9bc5018b6afbb70ed0439c8c23a799ab85876 Added some features in customer portal
+7e7ddc91a205d26e46d64a3c49211a2f2f03bfec Added customer portal 1.0
+2da7396270b42c0782f4e97774fec27cf6caedd7 Added Ahsan as admin
+33bf2d369a3ee9c3fed417f91a061c049c453c54 Added Ahsan as admin
+ffbd7c2a57e1d4a8c0b433c4332df1135c8db510 removed Ahsan and Qasim as admin
+ccf213a611b93dec6e68a8a5032de1621cfa117f added Qasim as admin
+802e0bf560c31e3b083d08bed4b8c35db045b0d8 Added Ahsan as admin
+3b66e166b9607eaf65ac193eae708b25428a7297 Added program.cpp
+4431c909571ea67eb8c08385129dbb3071cd6501 Merge branch 'master' of github.com:sufiyaanusmani/Github-Tutorial
+ce25a6ccdac7b8a249cec727aee88a35a1078624 Merge pull request #1 from sufiyaanusmani/develop
+b5f0f29d9a37e30d91dc27eb55d637ec34b2ec5e Added utils.txt
+af875600a0b45fedffc237f610911d733e43e44c Added C++ program in index.txt in develop
+9ad6f056e3c426c2d7b782c0d5dff09dea454b94 safasd
+ec7596cc6c6730ffb43e145cd035dae3fcd31d07 Changed utils.txt
+7f944f5e7e8efc488e9affb3140bf24b342f1091 Merge branch 'master' of github.com:sufiyaanusmani/Github-Tutorial
+f449dc9516d41c52943e6cc27ea674b983d84b16 added excel file
+a5f25e29445e8605d50700a5be7a2d3dae96d014 added excel file
+54c2312a124359775da547fb7e73c78ace3a4b6b Revert "wednesday"
+fe07980e2200f7ebce45a451763ceb7aca164687 Revert "Version 2"
+25c19544696b682fa4619f100582ea0d7b76d2d1 wednesday
+ee542cd143153856158ef064191729d7d865949c Version 4
+93fd09f5b7f39655b63b3ba6467662ad0f851e31 Version 3
+74835a6fd99e612a45588d17755f341ba0fc0170 Version 2
+c4548dabce42eff5460cde150d18f58a8cd0389d Version 1
