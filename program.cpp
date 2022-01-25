@@ -9,6 +9,7 @@ int main(){
     cout << "Improved UI of login menu";
 
     cout << "Added feedback option";
+    cout << "Fixing bugs in feedback option";
 
     return 0;
 }
